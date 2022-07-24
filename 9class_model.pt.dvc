@@ -1,0 +1,4 @@
+outs:
+- md5: da6badaddcfddd6cdb1e0696262db051
+  size: 94436673
+  path: 9class_model.pt
